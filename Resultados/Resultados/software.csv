@@ -1,0 +1,397 @@
+COD_RH;                 AUTOR;                 NOMBRE_SOFT;                 NOMBRE_COMERCIAL;                FECHA;                LUGAR;                PLATAFORMA;                 AMBIENTE;                 REGISTRO 
+202355;Lindsay ALVAREZ POMAR;COVID19 SIMULATOR;;2020;Colombia;;;
+218405;Lilia Edith APARICIO PICO;SIRC VERSION 2;;2006;Colombia;NET;Windows;
+218405;Lilia Edith APARICIO PICO;Sistema de Referencia y Contrareferencia Versión 2;;2006;Colombia;NET;Red Hospitalalaria;
+218405;Lilia Edith APARICIO PICO;Sistema de Gestión de Salud para el Distrito Capital;;2003;Colombia;Visual Studionet SQL;Windows;
+218405;Lilia Edith APARICIO PICO;SITEM GESTION DE CONOCIMIENTO;;2007;Colombia;Linux;libre;
+218405;Lilia Edith APARICIO PICO;SITEM;;2004;Colombia;LIBRE;;
+218405;Lilia Edith APARICIO PICO;Portal de medicina para la Unidad de Cuidado Intensivo del Hospital Santa Clara;Gestión de UCI;2008;Colombia;NET;WEB services;
+218405;Lilia Edith APARICIO PICO;WEB Service para Refererencia y Contrarreferencia;SIRC integral;2008;Colombia;net;WEB services;
+218405;Lilia Edith APARICIO PICO;portal Hospital Santa Clara;;2006;Colombia;net;windows;
+218405;Lilia Edith APARICIO PICO;Medicina en Línea para la Comunidad de Cirec;;2003;Colombia;software;software libre;
+218405;Lilia Edith APARICIO PICO;SimAE Simulador de ambiente espacial;;2012;Colombia;;;1330439
+218405;Lilia Edith APARICIO PICO;ANALIZADOR DE PROTOCOLOS AX25 PARA PICOSATELITES;;2012;Colombia;;;1334268
+218405;Lilia Edith APARICIO PICO;Software de calibracion de imagenes de radar metereológico a partir de imagenes satelitales;;2012;Colombia;;;1330437
+292931;Julio Barón Velandia;INTREAP;;2018;;Mac, Windows, Linux;Aplicación Web;
+292931;Julio Barón Velandia;REHAB;;2018;;Mac, Windows, Linux;Aplicación Web y de escritorio;
+292931;Julio Barón Velandia;OA3D;;2018;;Mac, Windows, Linux;Aplicación Web y de escritorio;
+1197452;Beitmantt Geovanni Cardenas Quintero;A2 AUTOMATIC ANNOTATOR;A2 AUTOMATIC ANNOTATOR;2012;Colombia;;;
+1197452;Beitmantt Geovanni Cardenas Quintero;CODIFICADOR DE LNEA;CODIFICADOR DE LNEA;2011;Colombia;Libre;Libre;1330459
+1197452;Beitmantt Geovanni Cardenas Quintero;CREACION DE TABLAS DE ROUTING MERDIANTE BELLMANFORD;CREACION DE TABLAS DE ROUTING MERDIANTE BELLMANFORD;2011;Colombia;Libre;Libre;1331191
+401498;Luz Esperanza Bohorquez Arevalo;EQUALITY;;2003;Colombia;;;
+401498;Luz Esperanza Bohorquez Arevalo;EQUALITY;;2005;Colombia;MACROMEDIA;FLASH;
+401498;Luz Esperanza Bohorquez Arevalo;SIGI MASTER;;2003;Colombia;SQL SERVER, VISUAL BASIC;;
+401498;Luz Esperanza Bohorquez Arevalo;SIGI PYME;;2002;Colombia;ACCES;;
+401498;Luz Esperanza Bohorquez Arevalo;Diagnostico del sistemas de gestion de la calidad;;2002;Colombia;ACCES;;
+193674;Sandro Javier Bolaños Castro;AIA AMBIENTE INGENIERIL ARTISTICO;Coloso AIA;2010;Colombia;Java;;1325346
+193674;Sandro Javier Bolaños Castro;COLOSO CFL;COLOSO CFL;2011;Colombia;Java;;1328278
+193674;Sandro Javier Bolaños Castro;COLOSO SPML;COLOSO SPML;2011;Colombia;Java;;1328279
+193674;Sandro Javier Bolaños Castro;COLOSO UML;COLOSO UML;2010;Colombia;Java;;1327142
+193674;Sandro Javier Bolaños Castro;COLOSO PATRONES GOF;COLOSO PATRONES GOF;2010;Colombia;Java;;1327141
+193674;Sandro Javier Bolaños Castro;COLOSO ARCHIMATE;COLOSO ARCHIMATE;2010;Colombia;Java;;1327143
+779296;Clara Inés Buriticá Arboleda;Aula virtual rea disciplinar y tecnológica;;2007;Colombia;Windows;Mozilla;
+779296;Clara Inés Buriticá Arboleda;Aula virtual Recursos distribuidos de energía;;2007;Colombia;Windows;Mozilla;
+779296;Clara Inés Buriticá Arboleda;Aula virtual Producción de energía;;2007;Colombia;Windows;Mozilla;
+779296;Clara Inés Buriticá Arboleda;Proceso de producción de energía hidroeléctrica;;1995;Colombia;Windows;ithink;
+779296;Clara Inés Buriticá Arboleda;TRAGEGAS v20;;1997;Colombia;Windows;ithink;
+908428;Nelson Leonardo Diaz Aldana;SRC DESIGNER;SRC DESIGNER;2012;Colombia;;;13351
+226602;Alvaro Espinel Ortega;Sistema de Integral de Referencia y Contrarreferencia para el Distrito Capital Fase I;SIRC Fase I;2004;Colombia;Visual Studio NETR, Motor de Base de Datos SQL Server 2000;Web;Convenio CocienciasGrupo de Investigación en Telemedicina Dir Lilia Edith Aparicio Pico
+226602;Alvaro Espinel Ortega;Sistema de Evaluación Diplomados Virtuales Servicio Civil Alcaldía de Bogotá DC;SIN NOMBRE;2008;Colombia;Visual Studio NETR, Motor de Base de Datos SQL Server 2000;Web;No 037 Departamento Administrativo del Servicio Civil Distrital DASCD
+226602;Alvaro Espinel Ortega;Sistema de Información Financiero y Contable SIFR;SIFR;2006;Colombia;Visual Studio NETR, Motor de Base de Datos SQL Server 2000;Windows;1325171 y 1316258
+226602;Alvaro Espinel Ortega;Sistema de Vigilancia Tecnológica para la SDDE de Bogotá DC;SisVigiTecR;2010;Colombia;Visual Studio NETR, Motor de Base de Datos SQL Server 2000;Windows;No267 de 2009 SDDE  Universidad Distrital Francisco José de Caldas
+226602;Alvaro Espinel Ortega;Sistema de Migración de Datos SIASUI;Migración SIASUI;2010;Colombia;ORACLE 10g;WEB;No 214 DE 2009 SUSCRITO CON LA UNIVERSIDAD DISTRITAL FRANCISCO JOSE DE CALDAS
+226602;Alvaro Espinel Ortega;Sistema de Facturación y Cartera para MiPymes;Facturación y Cartera MiPymes;2005;Colombia;Visual Foxpro 60;Windows aplicación de Escritorio;Contrato de Prestación de Servicios Privados con la Firma Electromuebles Arauca LTDA
+764680;Roberto Ferro Escobar;desarrollo de un software para interconexón de Protocolos;;2004;Colombia;Windows Linux;Visual Java;
+764680;Roberto Ferro Escobar;SIMBIOGAS;SIMBIOGAS;2015;Colombia;Matlab;Windows;
+764680;Roberto Ferro Escobar;Sistema Gestión Empresarial Modulo de Litografía;Sistema Gestión Empresarial Modulo de Litografía;2018;Colombia;Se desarrolla en lenguaje HTML, CSS, JAVASCRIPT, PHP y MySQL como sistema gestor de base de datos;Se desarrolla en lenguaje HTML;PROY02160211
+764680;Roberto Ferro Escobar;Sistema de gestión empresarial préstamos de dinero;Sistema de gestión empresarial préstamos de dinero;2018;Colombia;Se desarrolla en lenguaje HTML, CSS, JAVASCRIPT, PHP y MySQL como sistema gestor de base de datos;Se desarrolla en lenguaje HTML;PROY02160211
+764680;Roberto Ferro Escobar;Sistema gestión empresarial para el control de afiliaciones y gestión documental;Sistema gestión empresarial para el control de afiliaciones y gestión documental;2018;Colombia;Se desarrolla en lenguaje HTML, CSS, JAVASCRIPT, PHP y MySQL como sistema gestor de base de datos;Se desarrolla en lenguaje HTML;PROY02160211
+764680;Roberto Ferro Escobar;Sistema de información para la gestión de estudiantes y docentes;sistema de información para la gestión de estudiantes y docentes;2018;Colombia;Se desarrolla en lenguaje HTML, CSS, JAVASCRIPT, PHP y MySQL como sistema gestor de base de datos;Se desarrolla en lenguaje HTML;PROY02160211
+764680;Roberto Ferro Escobar;Sistema de GE módulo de facturación e inventario;Sistema de GE módulo de facturación e inventario;2018;Colombia;Se desarrolla en lenguaje HTML, CSS, JAVASCRIPT, PHP y MySQL como sistema gestor de base de datos;Se desarrolla en lenguaje HTML;PROY02160211
+764680;Roberto Ferro Escobar;Sistema gestión empresarial para el control de pensiones y gestión documental;Sistema gestión empresarial para el control de pensiones y gestión documental;2018;Colombia;Se desarrolla en lenguaje HTML, CSS, JAVASCRIPT, PHP y MySQL como sistema gestor de base de datos;Se desarrolla en lenguaje HTML;PROY02160211
+649902;Hector Arturo Florez Fernandez;SISTEMA DE GESTION EMPRESARIAL;SGE;2014;Colombia;Multiplataforma;Linux MySQL;
+649902;Hector Arturo Florez Fernandez;MOVILMIGO;;2020;Colombia;Linux;Android;
+649902;Hector Arturo Florez Fernandez;ONSUMMER;;2020;Colombia;Linux;PHP MySQL;
+649902;Hector Arturo Florez Fernandez;HYPER ENVIOS;;2020;Colombia;Linux;PHP MySQL;
+649902;Hector Arturo Florez Fernandez;RIWA;;2019;Colombia;Linux;NodeJS MongoDB;
+649902;Hector Arturo Florez Fernandez;UDXPERTIS;;2020;Colombia;Linux;PHP MySQL;
+649902;Hector Arturo Florez Fernandez;OASIS;;2020;Colombia;Linux;PHP MySQL;
+649902;Hector Arturo Florez Fernandez;CFP;;2019;Colombia;Linux;PHP MySQL;
+649902;Hector Arturo Florez Fernandez;DevPHP;;2019;Colombia;Linux;Java MySQL;
+649902;Hector Arturo Florez Fernandez;SGE;;2019;Colombia;Linux;PHP MySQL;
+649902;Hector Arturo Florez Fernandez;ICAIS;;2020;Colombia;Linux;PHP MySQL;
+649902;Hector Arturo Florez Fernandez;DALLAS CLOTHES;;2020;Colombia;Linux;PHP MySQL;
+649902;Hector Arturo Florez Fernandez;DFDR;;2020;Colombia;Linux;PHP MySQL;
+649902;Hector Arturo Florez Fernandez;PUNTOCOMA;;2020;Colombia;Linux;PHP MySQL;
+649902;Hector Arturo Florez Fernandez;SDC;;2020;Colombia;Linux;PHP MySQL;
+649902;Hector Arturo Florez Fernandez;FOCUS;;2020;Colombia;Linux;PHP MySQL;
+649902;Hector Arturo Florez Fernandez;BOOSTINGCO;;2020;Colombia;Linux;PHP MySQL;
+649902;Hector Arturo Florez Fernandez;CS;;2020;Colombia;Linux;PHP MySQL;
+649902;Hector Arturo Florez Fernandez;QUICK MEDICINE;;2020;Colombia;Linux;PHP MySQL;
+649902;Hector Arturo Florez Fernandez;GAUSSIAN MOAT;;2019;Colombia;Multiplataforma;Java;
+649902;Hector Arturo Florez Fernandez;PHPGEN;PHPGEN;2017;Colombia;Multiplataforma;Java;
+649902;Hector Arturo Florez Fernandez;SPA;;2018;Colombia;Linux;PHP MySQL;
+649902;Hector Arturo Florez Fernandez;BLACK JACK;;2018;Colombia;Android;Java;
+649902;Hector Arturo Florez Fernandez;IRIS;;2018;Colombia;Linux;PHP MySQL;
+649902;Hector Arturo Florez Fernandez;SI2;SI2;2016;Colombia;Multiplataforma;PHP MySQL;
+649902;Hector Arturo Florez Fernandez;PSSA;;2016;Colombia;Linux;PHP;
+649902;Hector Arturo Florez Fernandez;SCR;SCR;2016;Colombia;Multiplataforma;PHP MySQL;
+649902;Hector Arturo Florez Fernandez;SP2;;2009;Colombia;Linux;PHP MySQL;
+649902;Hector Arturo Florez Fernandez;NAIVE BAYES;;2015;Colombia;Multiplataforma;Java;
+649902;Hector Arturo Florez Fernandez;PSIKONOMICLAB;;2009;Colombia;Multiplataforma;PHP MySQL;
+649902;Hector Arturo Florez Fernandez;ROBOCODE;;2015;Colombia;Multiplataforma;Java;
+649902;Hector Arturo Florez Fernandez;ARTESANIAS APP;;2015;Colombia;Andro;Android MySQL;
+649902;Hector Arturo Florez Fernandez;BMA;BMA;2015;Colombia;Linux;PHP;
+649902;Hector Arturo Florez Fernandez;CTS VIRTUAL;CTS VIRTUAL;2016;Colombia;Multiplataforma;PHP MySQL;
+649902;Hector Arturo Florez Fernandez;BLACKJACK APP;BLACKJACK APP;2015;Colombia;Android;Java;
+649902;Hector Arturo Florez Fernandez;TELAPP;;2015;Colombia;Andro;Android MySQL;
+649902;Hector Arturo Florez Fernandez;SISTEMA DE INFORMACIÓN PARA LA ADMINISTRACIÓN Y EVALUACIÓN DE MARATONES DE PROGRAMACIÓN;Maraton;2013;Colombia;Multiplataforma;PHP MySQL;
+649902;Hector Arturo Florez Fernandez;SISTEMA DE INFORMACIÓN PARA LA GESTIÓN DE INFORMACIÓN DE PROPIEDAD HORIZONTAL;SGPH;2013;Colombia;Multiplataforma;PHP MySQL;
+649902;Hector Arturo Florez Fernandez;UNO;;2010;Colombia;Multiplataforma;J2ME;
+649902;Hector Arturo Florez Fernandez;RIRC;;2020;Colombia;Linux;PHP MySQL;
+649902;Hector Arturo Florez Fernandez;SvS;;2020;Colombia;Linux;PHP MySQL;
+649902;Hector Arturo Florez Fernandez;SGRRV;;2020;Colombia;Linux;PHP MySQL;
+649902;Hector Arturo Florez Fernandez;SCBAD;;2020;Colombia;Linux;PHP MySQL;
+649902;Hector Arturo Florez Fernandez;MMUD;;2020;Colombia;Linux;PHP MySQL;
+649902;Hector Arturo Florez Fernandez;SUPQUA;;2020;Colombia;Linux;Android TensorFlow;
+649902;Hector Arturo Florez Fernandez;ICAIC;;2020;Colombia;Linux;PHP MySQL;
+649902;Hector Arturo Florez Fernandez;RIS;;2019;Colombia;Linux;PHP MySQL;
+649902;Hector Arturo Florez Fernandez;SGR;;2020;Colombia;Linux;PHP MySQL;
+217344;Elvis Eduardo Gaona Garcia;Software de simulación para la caracterización de antenas con geometría fractal;Software de simulacion para la caracterizacion de antenas con geometría Fractal;2001;Colombia;Matlab;Windows;1319110
+217344;Elvis Eduardo Gaona Garcia;Servicio de interoperabilidad y búsquedas de objetos de aprendizaje de confianza sobre plataformas LCMS;SERVICIO DE INTEROPERABILIDAD Y BSQUEDAS DE OBJETOS DE APRENDIZAJE DE CONFIANZA SOBRE PLATAFORMAS LCMS;2012;Colombia;C;Windows;1335198
+217344;Elvis Eduardo Gaona Garcia;AESESTEGANO;AESESTEGANO  HERRAMIENTA CRIPTOGRFICA Y ESTEGANOGRAFA;2020;Colombia;El sistema requiere para su funcionamiento en la aplicación ejecutable un computador o dos computadores con conexión local, sistema operativo Windows 10 o Linux, memoria RAM de al menos 4GB, 44MB de espacio de almacenamiento en el disco duro;;
+217344;Elvis Eduardo Gaona Garcia;LORAGTCP;;2020;Colombia;LoRaGTCP funciona en todos los sistemas operativos, se recomienda e;;
+217344;Elvis Eduardo Gaona Garcia;Herramienta para el desarrollo rápido de videojuegos;Herramienta para el desarrollo rápido de videojuegos;2012;Colombia;Multiplataforma;Windows;1334498
+217344;Elvis Eduardo Gaona Garcia;DBVT2 6 MHz;;2017;Colombia;Windows;;
+217344;Elvis Eduardo Gaona Garcia;SACEGCEM;;2018;Colombia;Funciona en todos los sistemas operativos, se recomienda e;;
+217344;Elvis Eduardo Gaona Garcia;DATA MANAGEMENT SENSOR NODE;DATA MANAGEMENT SENSOR NODE;2016;Colombia;Java;Windows;
+217344;Elvis Eduardo Gaona Garcia;STOCHASTIC MICROGRID MANAGEMENT SYSTEM;STOCHASTIC MICROGRID MANAGEMENT SYSTEM;2015;Colombia;Matlab;Windows;2748515
+217344;Elvis Eduardo Gaona Garcia;Sensor ptico de tensión y corriente eléctrica;SENSOR ÓPTICO DE TENSIÓN Y CORRIENTE ELCTRICA;2015;Colombia;Matlab;Windows;20152
+217344;Elvis Eduardo Gaona Garcia;Analizador de Protocolos AX25 para Picosatélites;ANALIZADOR DE PROTOCOLOS AX25 PARA PICOSATELITES;2012;Colombia;C;WINDOWS;1334268
+217344;Elvis Eduardo Gaona Garcia;Dispositivos de Conmutación Óptica de Nueva Generación;Dispositivos de Conmutación Óptica de Nueva Generación;2012;Colombia;Matlab;Windows;1332205
+217344;Elvis Eduardo Gaona Garcia;Antenas Microstrip;Antenas Microstrip;2011;Colombia;Matlab;Windows;1328450
+217344;Elvis Eduardo Gaona Garcia;FDTD MiPaZer;FDTD MiPaZer;2011;Colombia;Matlab;Windows;1328451
+217344;Elvis Eduardo Gaona Garcia;Análisis de Líneas Bifilar y Coaxial;Análisis de Líneas Bifilar y Coaxial;2012;Colombia;Matlab;Windows;1334275
+217344;Elvis Eduardo Gaona Garcia;Corrección del Efecto Doopler en Estaciones Terrenas;Corrección del Efecto Doopler en Estaciones Terrenas;2012;Colombia;LabView;Windows;
+217344;Elvis Eduardo Gaona Garcia;Sistema de seguimiento y acceso remoto para Picosatélites;Sistema de seguimiento y acceso remoto para Picosatélites;2012;Colombia;LabView;Windows;CP
+217344;Elvis Eduardo Gaona Garcia;Análisis de Antenas Microcintas empleando el Método de Diferencias Finitas en el Dominio del Tiempo;Análisis de Antenas Microcintas empleando el Método de Diferencias Finitas en el Dominio del Tiempo;2012;Colombia;Matlab;Windows;1334302
+217344;Elvis Eduardo Gaona Garcia;TNCUD;TNCUD;2015;Colombia;c;Windows;1346455
+217344;Elvis Eduardo Gaona Garcia;Estación Terrena UD;Estación Terrena UD;2009;Colombia;Labview;Windows;141122009
+292974;Paulo Alonso Gaona García;GARDENSPECIES DM;GARDENSPECIES DM;2020;Colombia;NA;NA;1380477
+292974;Paulo Alonso Gaona García;CHAMILO;CHAMILO;2019;Colombia;NA;NA;1376457
+292974;Paulo Alonso Gaona García;ARMETEOROLOGY;ARMETEOROLOGY;2019;Colombia;NA;NA;1376262
+292974;Paulo Alonso Gaona García;AGROCHAIN;AGROCHAIN;2020;Colombia;NA;NA;1381323
+292974;Paulo Alonso Gaona García;ERGOSENT;ERGOSENT;2020;;NA;NA;1379386
+292974;Paulo Alonso Gaona García;CLITEMA;CLITEMA;2019;Colombia;NA;NA;1377265
+292974;Paulo Alonso Gaona García;Gerencia Informática como Soporte Sistémico para la Mejora en la Producción de Hatos Bovinos;Foreman;2008;Colombia;Tomcat  JSP  Oracle;Cliente  Servidor;1320334
+292974;Paulo Alonso Gaona García;VORA;VORA;2017;Colombia;NA;NA;1363258
+292974;Paulo Alonso Gaona García;Visual Analytics From WSN Data;Visual Analytica From WSN Data;2017;Colombia;NA;NA;1363274
+292974;Paulo Alonso Gaona García;AAT ONTOLOGY VR;AAT ONTOLOGY VR;2017;Colombia;NA;NA;1364437
+292974;Paulo Alonso Gaona García;VISSKOS;VISSKOS;2017;Colombia;NA;NA;1362387
+292974;Paulo Alonso Gaona García;GamificationApgame;GamificationApgame;2016;Colombia;ClienteServidor;ClienteServidor;338852017
+292974;Paulo Alonso Gaona García;CNPGRAPH;CNPGRAPH;2016;Colombia;ClieteServidor;ClienteServidor;22049015
+292974;Paulo Alonso Gaona García;Dispositivos de conmutación óptica de nueva generación;Dispositivos de conmutación óptica de nueva generación;2012;Colombia;;;1332205
+292974;Paulo Alonso Gaona García;VPR  A novel scalable framework of visualization for Publication reports;VPR  A novel scalable framework of visualization for Publication reports;2015;Colombia;Web;Cliente  Servidor;1348484
+292974;Paulo Alonso Gaona García;Herramienta para el desarrollo rápido de Videjojuegos;Herramienta para el desarrollo rápido de Videjojuegos;2012;Colombia;;;1334498
+292974;Paulo Alonso Gaona García;Análisis de antenas de microcintas empleando el método de diferencias finitas en el dominio del tiempo;Análisis de antenas de microcintas empleando el método de diferencias finitas en el dominio del tiempo;2012;Colombia;;;1334302
+292974;Paulo Alonso Gaona García;Europeana visual search;Europeana visual search;2015;Colombia;Web;Cliente  Servidor;22049015
+292974;Paulo Alonso Gaona García;Sistema de información BIOSAPI;Sistema de información BIOSAPI, para el monitoreo, análisis y seguimiento de especies de fauna silvestre, mediante biotelemetría;2015;Colombia;Web;Cliente  Servidor;22031112
+292974;Paulo Alonso Gaona García;Sistema de información móvil para rutas urbanas del SITP Bogotá;Sistema de información móvil para rutas urbanas del SITP Bogotá;2015;Colombia;Android;Dispositivos móviles;135093
+292974;Paulo Alonso Gaona García;Servicio de interoperabilidad y búsquedas de objetos de aprendizaje de confianza sobre plataformas LCMS;Servicio de interoperabilidad y búsquedas de objetos de aprendizaje de confianza sobre plataformas LCMS;2012;Colombia;Cliente  Servidor;WEB;2158709
+292974;Paulo Alonso Gaona García;Indexación semántica de contenidos digitales sobre plataformas LCMS;Indexación semántica de contenidos digitales sobre plataformas LCMS;2012;Colombia;Cliente  Servidor;WEB;2158709
+292974;Paulo Alonso Gaona García;Software de evaluación de usabilidad de herramientas colaborativas en sitios elearning;;2012;Colombia;ClienteServidor;Web;1332130
+292974;Paulo Alonso Gaona García;Nanolearning project Prototipo de plataforma de aprendizaje con contenidos basados en nanotecnología;Nanolearning project Prototipo de plataforma de aprendizaje con contenidos basados en nanotecnología;2010;Colombia;Cliente Servidor;Web;1325165
+292974;Paulo Alonso Gaona García;Prototipo wap aplicado a un ambiente de aprendizaje virtual elearning con estándares para el desarrollo de aprendizaje móvil;;2010;Colombia;Dispositivos Móviles;Web y Móvil;1325122
+292974;Paulo Alonso Gaona García;Módulo de consultas y peticiones bibliotecarias basados en Agentes Inteligentes utilizando tecnologías Web y móvil;Módulo de consultas y peticiones bibliotecarias basados en Agentes Inteligentes utilizando tecnologías Web y móvil;2011;Colombia;;Web;1328141
+292974;Paulo Alonso Gaona García;KiwiDSM;KiwiDSM;2011;Colombia;;Web;1328448
+292974;Paulo Alonso Gaona García;Prototipo de Telemedicina móvil para asistencia médica domiciliaria y remota;;2010;Colombia;;Web y Móvil;1325462
+292974;Paulo Alonso Gaona García;KRA;KRA;2011;Colombia;Windows;Escritorio java;1328447
+292974;Paulo Alonso Gaona García;Modelo de Interoperabilidad de Servicios Académicos;;2011;Colombia;;Web;1328136
+292974;Paulo Alonso Gaona García;DAPPICDH;DAPPICDH;2020;Colombia;NA;NA;1382121
+251909;Cesar Augusto GARCÍA UBAQUE;APLICACIÓN MÓVIL DISCHARGE;Discharge;2020;Colombia;DISCHARGE ES UNA APLICACIN MVIL QUE EST DESARROLLADA PARA ANDROID IOS, BAJO CDIGO FUENTE DE JAVASCRIP;DISCHARGE ES UNA APLICACIN MVIL QUE EST DESARROLLADA PARA ANDROID IOS;GIFR021
+251909;Cesar Augusto GARCÍA UBAQUE;APLICACIÓN MÓVIL PARALLEL PIPES;Parallel Pipes;2020;Colombia;PARALLEL PIPES ES UNA APLICACIN MVIL QUE EST DESARROLLADA PARA ANDROID IOS, BAJO CDIGO FUENTE;PARALLEL PIPES ES UNA APLICACIN MVIL QUE EST DESARROLLADA PARA ANDROID IOS;GIFR021
+251909;Cesar Augusto GARCÍA UBAQUE;APLICACIÓN MÓVIL FLOWRISK;FlowRisk;2020;Colombia;LA APLICACIN MVIL FLOWRISK, EST DESARROLLADA PARA ANDROID IOS, BAJO CDIGO FUENTE DE JAVASCRIPT, ES;LA APLICACIN MVIL FLOWRISK;1202078879
+251909;Cesar Augusto GARCÍA UBAQUE;APLICACION MOVIL SISTEMA DE TUBERIAS EN SERIE  SERIES PIPING SYSTEM;APLICACION MOVIL SISTEMA DE TUBERIAS EN SERIE  SERIES PIPING SYSTEM;2017;Colombia;REPOSA EN LA UNIVERSIDAD DISTRITAL;REPOSA EN LA UNIVERSIDAD DISTRITAL;1366108
+251909;Cesar Augusto GARCÍA UBAQUE;APLICACIÓN MÓVIL RESALTO HIDRULICO PARA SECCIONES PRISMTICAS;;2018;Colombia;REPOSA EN LA UNIVERSIDAD DISTRITAL;;
+251909;Cesar Augusto GARCÍA UBAQUE;APLICACION MOVIL COEFICIENTE DE FRICCION DARCY W COLEBROOK WHITE;APLICACION MOVIL COEFICIENTE DE FRICCION DARCY W COLEBROOK WHITE;2017;Colombia;REPOSA EN LA UNIVERSIDAD DISTRITAL;REPOSA EN LA UNIVERSIDAD DISTRITAL;1366110
+251909;Cesar Augusto GARCÍA UBAQUE;APLICACION MOVIL DISEO DE CANALES HIDRAULICOS HIDROEOLM;APLICACION MOVIL DISEO DE CANALES HIDRAULICOS HIDROEOLM;2017;Colombia;REPOSA EN LA UNIVERSIDAD DISTRITAL;REPOSA EN LA UNIVERSIDAD DISTRITAL;1366106
+251909;Cesar Augusto GARCÍA UBAQUE;APLICACION MOVIL DISEO TUBERIAS A PRESION DARCYWEISBACH;APLICACION MOVIL DISEO TUBERIAS A PRESION DARCYWEISBACH;2017;Colombia;REPOSA EN LA UNIVERSIDAD DISTRITAL;REPOSA EN LA UNIVERSIDAD DISTRITAL;1366107
+251909;Cesar Augusto GARCÍA UBAQUE;APLICATIVO PARA SITIO WEB PRESUPUESTOS PARA CONSTRUCCION DE VIVIENDAS;APLICATIVO PARA SITIO WEB PRESUPUESTOS PARA CONSTRUCCION DE VIVIENDAS;2016;Colombia;POR SEGURIDAD, REPOSA EN LA UNIVERSIDAD DISTRITAL;POR SEGURIDAD;1362474
+251909;Cesar Augusto GARCÍA UBAQUE;APLICACION MOVIL FLUJO CRITICO EN CANALES SOLUCION NEWTON RAPHSON;APLICACION MOVIL FLUJO CRITICO EN CANALES SOLUCION NEWTON RAPHSON;2017;Colombia;REPOSA EN LA UNIVERSIDAD DISTRITAL;REPOSA EN LA UNIVERSIDAD DISTRITAL;1366109
+251909;Cesar Augusto GARCÍA UBAQUE;APLICACIÓN MÓVIL SISTEMAS DE BOMBEO HIDRULICO;;2018;Colombia;;;
+251909;Cesar Augusto GARCÍA UBAQUE;APLICACIÓN MÓVIL FLUJO GRADUALMENTE VARIADO;APLICACIÓN MÓVIL FLUJO GRADUALMENTE VARIADO;2018;Colombia;REPOSA EN LA UNIVERSIDAD DISTRITAL;REPOSA EN LA UNIVERSIDAD DISTRITAL;1366109
+251909;Cesar Augusto GARCÍA UBAQUE;Aplicativo para sitio web Especificaciones Técnicas para Construcción de Viviendas;Especificaciones Técnicas para Construcción de Viviendas;2016;Colombia;Windows;Google;135626
+251909;Cesar Augusto GARCÍA UBAQUE;APLICACIÓN MÓVIL HYDROGUMBEL;HydroGumbel;2020;Colombia;LA APLICACIN MVIL HYDROGUMBEL, EST DESARROLLADA PARA ANDROID IOS, BAJO CDIGO FUENTE DE JAVASCRIP;LA APLICACIN MVIL HYDROGUMBEL;GIFR021
+251909;Cesar Augusto GARCÍA UBAQUE;APLICACIÓN MÓVIL HYDROTANKS;HYDROTANKS;2020;Colombia;HYDROTANKS ES UNA APLICACION MVIL QUE EST DESARROLLADA PARA ANDROID IOS, BAJO CDIGO FUENTE;HYDROTANKS ES UNA APLICACION MVIL QUE EST DESARROLLADA PARA ANDROID IOS;GIFR021
+251909;Cesar Augusto GARCÍA UBAQUE;APLICACIÓN MÓVIL HYDROPDF;HydroPDF;2020;Colombia;LA APLICACIN MVIL HYDROPDF, EST DESARROLLADA PARA ANDROID IOS, BAJO CDIGO FUENTE DE JAVASCRIPT, ES;LA APLICACIN MVIL HYDROPDF;GIFR021
+251909;Cesar Augusto GARCÍA UBAQUE;APLICACIÓN MÓVIL FLOWMETERS;Peak Flow Meter V2;2020;Colombia;FLOWMETERS ES UNA APLICACIN MVIL QUE EST DESARROLLADA PARA ANDROID IOS, BAJO CDIGO FUENTE;FLOWMETERS ES UNA APLICACIN MVIL QUE EST DESARROLLADA PARA ANDROID IOS;GIFR021
+251909;Cesar Augusto GARCÍA UBAQUE;APLICACIÓN MÓVIL HYDROLOGY  CLCULOS FISIOGRFICOS Y TIEMPO DE CONCENTRACIÓN;Hydrology;2020;Colombia;EST APLICACIN CALCULA EL ANCHO DE LA CUENCA KM, EL FACTOR DE HORTON KF, LA RELACIN DE ELONGACIN,;EST APLICACIN CALCULA EL ANCHO DE LA CUENCA KM;GIFR021
+472069;Ernesto GOMEZ VARGAS;APLICACIÓN PARA EL ANLISIS DE SNDROME DE MUERTE SBITA INFANTIL;;2018;;;;
+472069;Ernesto GOMEZ VARGAS;SOFTWARE DE CALIBRACION DE IMAGENES DE RADAR METEOROLOGICO A PARTIR DE IMAGENES SATELITALES;SOFTWARE DE CALIBRACION DE IMAGENES DE RADAR METEOROLOGICO A PARTIR DE IMAGENES SATELITALES;2013;Colombia;Matlab;;
+472069;Ernesto GOMEZ VARGAS;SISTEMA DE SEGUIMIENTO DE ORBITAS DE SATELITES ARTIFICIALES SOP;SOP;2015;Colombia;;;
+472069;Ernesto GOMEZ VARGAS;EVRAD ESTIMADOR Y VISUALIZADOR DE REFLECTIVIDADES Y PRECIPITACIÓN EN RADARES METEOROLÓGICOS ;EVRAD ESTIMADOR Y VISUALIZADOR DE REFLECTIVIDADES Y PRECIPITACIÓN EN RADARES METEOROLÓGICOS ;2014;Colombia;NET, C y matlab;web;
+472069;Ernesto GOMEZ VARGAS;SOFTWARE PARA LA VISUALIZACIÓN DE REFLECTIVIDADES Y ESTIMACIÓN CUANTITATIVA DE PRECIPITACIÓN DE RADARES METEOROLÓGICOS;SOFTWARE PARA LA VISUALIZACIÓN DE REFLECTIVIDADES Y ESTIMACIÓN CUANTITATIVA DE PRECIPITACIÓN DE RADARES METEOROLÓGICOS;2014;Colombia;C;web;
+472069;Ernesto GOMEZ VARGAS;SIMULADOR DEL AMBIENTE ESPACIAL;;2013;Colombia;;;
+322318;Johann Alexander HERNANDEZ MORA;SIMMODFVUD;SIMMODFVUD;2012;Colombia;;;
+331430;Cesar Augusto Hernández Suárez;Software para la Enseñanza de la Escritura Braille en Personas Invidentes;Software para la Enseñanza de la Escritura Braille en Personas Invidentes;2011;Colombia;Lenguaje C;Lenguaje C;
+331430;Cesar Augusto Hernández Suárez;Software para el control de los Sistemas VSTAMP y GSM en un Teclado Braille;Software para el control de los Sistemas VSTAMP y GSM en un Teclado Braille;2011;Colombia;Lenguaje C;Lenguaje C;
+331430;Cesar Augusto Hernández Suárez;MULTIUSER COLLABORATIVE SPECTRAL DECISION FOR DECENTRALIZED COGNITIVE RADIO NETWORKS  MULTICOLLDCRN;;2020;Colombia;Matlab;Matlab;OS 1845 2019
+331430;Cesar Augusto Hernández Suárez;Detector y corrector de errores;Detector y corrector de errores;2011;Colombia;Matlab;;
+331430;Cesar Augusto Hernández Suárez;Software para la predicción de series de tiempo con técnicas de inteligencia artificial;Software para la predicción de series de tiempo con técnicas de inteligencia artificial;2011;Colombia;Matlab;;
+331430;Cesar Augusto Hernández Suárez;Spectrum Occupation Prediction;Spectrum Occupation Prediction;2017;Colombia;Matlab;Matlab;232016
+331430;Cesar Augusto Hernández Suárez;Multifractal CRN;Multifractal CRN;2018;Colombia;Matlab;Matlab;CPS 12532017
+331430;Cesar Augusto Hernández Suárez;SOPTS;SOPTS;2017;Colombia;Matlab;Matlab;232016
+331430;Cesar Augusto Hernández Suárez;Collaborative CRN;Collaborative CRN;2018;Colombia;Matlab;Matlab;OS 001139
+331430;Cesar Augusto Hernández Suárez;Simulator for performance evaluation of algorithms for spectral handoff in cognitive radio networks;;2015;Colombia;;;142014
+331430;Cesar Augusto Hernández Suárez;APP para el aprendizaje didáctico e interactivo de la lengua de señas en niños con discapacidad auditiva;;2015;Colombia;;;32014
+331430;Cesar Augusto Hernández Suárez;Herramienta para la asignación multicanal equitativa con demanda dinámica de usuarios secundarios;;2017;Colombia;;;696 de 2016
+331430;Cesar Augusto Hernández Suárez;MFACRN;;2016;Colombia;;;142014
+331430;Cesar Augusto Hernández Suárez;Aplicación firmas digitales y cifrado distribución web services;Aplicación firmas digitales y cifrado distribución web services;2011;Colombia;;;
+331430;Cesar Augusto Hernández Suárez;Simulador de comunicación cifrada AES entre un controlador de tráfico vehicular y una central de monitoreo;Simulador de comunicación cifrada AES entre un controlador de tráfico vehicular y una central de monitoreo;2011;Colombia;Matlab;;
+331430;Cesar Augusto Hernández Suárez;Software de diseño para una red celular;Software de diseño para una red celular;2011;Colombia;Matlab;;
+331430;Cesar Augusto Hernández Suárez;Software para la medición;;2011;Colombia;Lenguaje C;Lenguaje C;20 de 2010 del CIDC
+331430;Cesar Augusto Hernández Suárez;Análisis espectral y códigos de línea;Análisis espectral y códigos de línea;2011;Colombia;Matlab;;
+331430;Cesar Augusto Hernández Suárez;Creación de las tablas de routing mediante BellmanFord;Creación de las tablas de routing mediante BellmanFord;2011;Colombia;;;
+331430;Cesar Augusto Hernández Suárez;Aplicación SIP RTP;;2011;Colombia;;;
+331430;Cesar Augusto Hernández Suárez;RNA POWER SYSTEM OPTIMIZER;;2019;Colombia;Matlab;Matlab;981  2018
+331430;Cesar Augusto Hernández Suárez;SOFTWARE OSP;;2019;Colombia;Matlab;Maltab;CPS 981  2018
+331430;Cesar Augusto Hernández Suárez;SIMULADOR DE LA RUTA ESPECTRAL PARA REDES DE RADIO COGNITIVA BASADO EN EL ALGORITMO ABC V10;;2019;Colombia;Matlab;Matlab;17259019
+1164023;Jhon Francined Herrera Cubides;Liquidacion Parafiscales UNIMETA;Software para Liquidación de Parafiscales  Unimeta;2002;Colombia;Win 95;Fox Pro;NA
+783960;Luini Leonardo Hurtado Cortés;OPTOOL;;2005;Colombia;VISUAL BASIC 60;WINDOWS 98;
+783960;Luini Leonardo Hurtado Cortés;ROBUST;;2008;Colombia;MATLAB;WINDOWS XP;
+282901;Adolfo Andrés Jaramillo Matta;SOFTWARE GOTTHD GENERADOR Y EMULADOR DE SEALES CON DISTORSIÓN ARMÓNICA CONTROLADA;;2016;Colombia;Matlab;;
+282901;Adolfo Andrés Jaramillo Matta;OPSIM;OPSIM;2017;Colombia;Matlab;;
+282901;Adolfo Andrés Jaramillo Matta;Sistema Automatico de Backup;;2002;Colombia;;;
+282901;Adolfo Andrés Jaramillo Matta;Software para registro academico;;2002;Colombia;;;
+282901;Adolfo Andrés Jaramillo Matta;Modulos TCPIP para transferencia de informacion en Linux y Scilab;;2001;Colombia;;;
+282901;Adolfo Andrés Jaramillo Matta;Drivers de Tarjetas de Adquisicion TIM y National Instruments para Scilab y Scicos;;2002;Colombia;Linux;Gráfico;
+594822;José Andelfo Lizcano Caro;MULTIMEDIA PREVENCIÓN DE INCENDIOS FORESTALES;MULTIMEDIA PARA CONTENIDOS DE INCENDIOS FORESTALES Y RESTAURACIÓN DE REAS AFECTADAS;2010;Colombia;MOODLE;EL REPORTE DE LA MULTIMEDIA NO COBIJA LOS CONTENIDOS DE LOS MDULOS QUE SON DE AUTORA DE OTROS PROFESIONALES MI COAUTORIA SLO COBIJA EL DESARROLLO DE LA MULTIMEDIA;20105274
+594822;José Andelfo Lizcano Caro;Multimedia Interactiva;Multimedia Interactiva;2010;Colombia;Adobedirector;Windows y otros;FamarenaUniversidad Distrital
+1213490;Eduyn Ramiro Lopez Santana;SchES;SchES;2018;Colombia;;;3328053316
+430129;Danilo Alfonso López Sarmiento;NGSPRE;NGSPRE;2014;Colombia;;;
+430129;Danilo Alfonso López Sarmiento;Aplicación demostrativa de los tipos de muestreo ideal;APLICACIÓN DEMOSTRATIVA DE LOS TIPOS DE MUESTREO IDEAL, NATURAL Y TECHO PLANO;2012;Colombia;;;
+430129;Danilo Alfonso López Sarmiento;Aplicación SIP con Streaming de Audio y Video 3 Autores;Aplicación SIP con Streaming de Audio y Video;2011;Colombia;Clienteservidor;Windows;
+430129;Danilo Alfonso López Sarmiento;Análisis espectral de códigos de línea 3 Autores;Análisis espectral de códigos de línea;2011;Colombia;;;1331216
+430129;Danilo Alfonso López Sarmiento;Desarrollo de una herramienta para la simulación de ataque y dispersión del escarabajo del pino de motaña y estrategías de manejo de la infestación 3 Autores;Simulador de ataque y dispersión del escarabajo de pino Canadiense;2009;Colombia;Local;Windows;13
+430129;Danilo Alfonso López Sarmiento;Codificador de Línea 3 Autores;Codificador de Línea;2011;Colombia;Cliente;Windows;1330459
+430129;Danilo Alfonso López Sarmiento;Simulador de codificación cifrado entre un controlador de tráfico vehicular 3 Autores;Simulador de codificación cifrado entre un controlador de tráfico vehicular;2011;Colombia;;;1331217
+430129;Danilo Alfonso López Sarmiento;Software para la sincronización de tiempos de semáforos basado en el sistema de inferencia neurodifusa adaptativa 3 Autores;Software para la sincronización de tiempos de semáforos basado en el sistema de inferencia neurodifusa adaptativa;2011;Colombia;;;133191
+430129;Danilo Alfonso López Sarmiento;Software para la predicción de series de tiempo con técnicas de inteligencia artificial 2 Autores;Software para la predicción de series de tiempo con técnicas de inteligencia artificial;2011;Colombia;;;133188
+430129;Danilo Alfonso López Sarmiento;Calculadora didactica IPv6 3 Autores;Calculadora didactica IPv6;2012;Colombia;;;1333204
+430129;Danilo Alfonso López Sarmiento;Software Para el cálculo del nivel de distorsión armónica en la red de energía eléctrica 2 Autores;Software Para el cálculo del nivel de distorsión armónica en la red de energía eléctrica 2 Autores;2011;Colombia;;;133184
+430129;Danilo Alfonso López Sarmiento;Aplicación de firmas digitales y cifrado distribución applet en java 2 Autores;Aplicación de firmas digitales y cifrado distribución applet en java;2011;Colombia;;;
+430129;Danilo Alfonso López Sarmiento;Software para el control del desplazamientoautónomo de una silla de ruedas eléctrica 3 Autores;Software para el control del desplazamientoautónomo de una silla de ruedas eléctrica;2011;Colombia;;;133185
+430129;Danilo Alfonso López Sarmiento;Identificación de oportunidades espectrales;Identificador de oportunidades espectrales;2018;Colombia;;;
+430129;Danilo Alfonso López Sarmiento;DECNN DESIGN CNN AppWeb;;2019;Colombia;;;
+430129;Danilo Alfonso López Sarmiento;MPV Mobile Protein Viewer;MPV Mobile Protein Viewer;2017;Colombia;;;
+430129;Danilo Alfonso López Sarmiento;RESTGEN  API FRONTENDBACKEND APPLICATION GENERATOR;;2018;Colombia;;;
+393762;Fredy Hernán Martínez Sarmiento;CORRECTOR FP ACTIVO POR HISTERESIS V26;CORRECTOR FP ACTIVO POR HISTERESIS V26;2007;Colombia;Asembler;Procesador dedicado MC68HC908JK3;0
+393762;Fredy Hernán Martínez Sarmiento;NNROBONUM 10;NNROBONUM 10;2010;Colombia;Matlab y Windows;Grafico con Windows;1325345
+393762;Fredy Hernán Martínez Sarmiento;HIBPEN 10;HIBPEN 10;2010;Colombia;Windows, Linux o cualquier equipo con OS ejecutando MatLab;Matlab;1325343
+393762;Fredy Hernán Martínez Sarmiento;ARMNETFF 10;ARMNETFF 10;2010;Colombia;Windows, Linux o cualquier OS con MatLab;Matlab;1325344
+393762;Fredy Hernán Martínez Sarmiento;DOSILIV V3;DOSILIV V3;2009;Colombia;Asembler para el MC68HC908JK3;Procesador dedicado MC68HC908JK3;1324214
+269387;Ruben Javier MEDINA DAZA;PARALLELBROVEYTRANSFORM;PARALLELBROVEYTRANSFORM;2019;Colombia;;;219558319
+269387;Ruben Javier MEDINA DAZA;PARALLELFUSIMAGERY;PARALLELFUSIMAGERY;2019;Colombia;;;219558319
+269387;Ruben Javier MEDINA DAZA;PARALLELMULTIPLICATIVEFUSION;PARALLELMULTIPLICATIVEFUSION;2020;Colombia;;;219558319
+269387;Ruben Javier MEDINA DAZA;KCTK  KMERCOUNTERSTOOLKIT;;2016;Colombia;;interfaz gráfica orientada a la web;ACTA No 272014 MCIC
+269387;Ruben Javier MEDINA DAZA;FUSATIMA;;2016;Colombia;;Web;ACTA No 272014 MCIC
+269387;Ruben Javier MEDINA DAZA;SALLFUS;SALLFUS;2020;Colombia;;;219558319
+269387;Ruben Javier MEDINA DAZA;PARALLELPCATRANSFORM;PARALLELPCATRANSFORM;2020;Colombia;;;219558319
+243302;Victor Hugo MEDINA GARCÍA;IRN  Internships Response Network Red de Respuestas de Pasantías;IRN;2012;Colombia;Web;;
+202339;German MÉNDEZ GIRALDO;OPTIMUS;OPTIMUS;2008;Colombia;JAVA;Multiusuario;
+202339;German MÉNDEZ GIRALDO;SIMULADOR SAR;SIMULADOR SAR;2008;Colombia;VISUAL EXCEL;WINDOWS;
+202339;German MÉNDEZ GIRALDO;SISCOOPAD;;1999;Colombia;PC;VENTANAS;
+202339;German MÉNDEZ GIRALDO;TRANSPOGRAM;TRANSPOGRAM;2010;Colombia;;;FST031
+202339;German MÉNDEZ GIRALDO;PAVCOPRO;PAVCOPRO;2008;Colombia;VISUAL BASIC;WINDOWS;4500170579
+202339;German MÉNDEZ GIRALDO;PAVCOSCHEDULE;PAVCOSCHEDULE;2008;Colombia;;;4500170579
+202339;German MÉNDEZ GIRALDO;DIAGNOSTICADOR EMPRESARIAL;;2009;Colombia;ACCESS;WINDOWS;
+202339;German MÉNDEZ GIRALDO;SCHES;SCHES;2018;;;;
+292915;Carlos Enrique MONTENEGRO MARIN;Indexación semántica de contenidos digitales sobre plataformas LCMS;Indexación semántica de contenidos digitales sobre plataformas LCMS;2012;Colombia;Cliente  Servidor;Web;2158709
+292915;Carlos Enrique MONTENEGRO MARIN;Evaluación de usabilidad de herramientas colaborativas en sitios ELearning;Evaluación de usabilidad de herramientas colaborativas en sitios ELearning;2012;Colombia;;;
+292915;Carlos Enrique MONTENEGRO MARIN;Migracion informacion banca hipotecaria BCH a Granahorrar;;2004;Colombia;Windows;Web;
+292915;Carlos Enrique MONTENEGRO MARIN;FOREMAN  Gerencia Informática como Soporte Sistémico para la Mejora en la Producción de Hatos Bovinos;FOREMAN;2008;Colombia;Windows;Web;1320334
+292915;Carlos Enrique MONTENEGRO MARIN;INTREAP;;2020;Colombia;;;
+292915;Carlos Enrique MONTENEGRO MARIN;Vis SKOS;Vis SKOS;2017;Colombia;;;
+292915;Carlos Enrique MONTENEGRO MARIN;CLITEMA;;2020;Colombia;;;
+292915;Carlos Enrique MONTENEGRO MARIN;VORA;VORA;2018;Colombia;;;
+292915;Carlos Enrique MONTENEGRO MARIN;AR METEOROLOGY;;2020;Colombia;;;
+292915;Carlos Enrique MONTENEGRO MARIN;AAT Ontology VR;;2019;Colombia;;;
+292915;Carlos Enrique MONTENEGRO MARIN;Europeana visual search;Europeana visual search;2015;Colombia;Web;Cliente  Servidor;22049015
+292915;Carlos Enrique MONTENEGRO MARIN;GamificationApgame;GamificationApgame;2016;Colombia;Clienteservidor;Clienteservidor;338852017
+292915;Carlos Enrique MONTENEGRO MARIN;CNPGRAPH;CNPGRAPH;2016;Colombia;ClienteServidor;Web;22049015
+292915;Carlos Enrique MONTENEGRO MARIN;VPR  A novel scalable framework of visualization for Publication reports;VPR  A novel scalable framework of visualization for Publication reports;2015;Colombia;ClienteServidor;ClienteServidor;22049015
+292915;Carlos Enrique MONTENEGRO MARIN;Sistema de información BIOSAPI;Sistema de información BIOSAPI, para el monitoreo, análisis y seguimiento de especies de fauna silvestre, mediante biotelemetría;2015;Colombia;Web;Web;22031112
+292915;Carlos Enrique MONTENEGRO MARIN;Sistema de información móvil para rutas urbanas del SITP Bogotá;Sistema de información móvil para rutas urbanas del SITP Bogotá;2015;Colombia;Android;Movil;22031112
+292915;Carlos Enrique MONTENEGRO MARIN;Dispositivos de conmutación óptica de nueva generación;Dispositivos de conmutación óptica de nueva generación;2012;Colombia;Desktop;Desktop;1332205
+292915;Carlos Enrique MONTENEGRO MARIN;Herramienta para el desarrollo rápido de videojuegos;HERRAMIENTA PARA EL DESARROLLO RAPIDO DE VIDEOJUEGOS;2012;Colombia;Windows;Local;1334498
+292915;Carlos Enrique MONTENEGRO MARIN;Servicio de interoperabilidad y búsquedas de objetos de aprendizaje de confianza sobre plataformas LCMS;Servicio de interoperabilidad y búsquedas de objetos de aprendizaje de confianza sobre plataformas LCMS;2012;Colombia;Multiplataforma;Web;2158709
+292915;Carlos Enrique MONTENEGRO MARIN;ANALISIS DE ANTENAS DE MICROCINTAS EMPLEANDO EL METODO DE DIFERENCIAS FINITAS EN EL DOMINIO DEL TIEMPO;ANALISIS DE ANTENAS DE MICROCINTAS EMPLEANDO EL METODO DE DIFERENCIAS FINITAS EN EL DOMINIO DEL TIEMPO;2012;Colombia;Windows;Local;1334302
+292915;Carlos Enrique MONTENEGRO MARIN;Prototipo de Telemedicina Movil para asistencia medica domiciliaria y remota;Prototipo de Telemedicina Movil para asistencia medica domiciliaria y remota;2010;Colombia;Windows, UNIX y J2ME Probado sobre Symbian;Web y Movil;1325462
+292915;Carlos Enrique MONTENEGRO MARIN;KRA;KRA;2011;Colombia;Windows;Escritorio java;1328447
+292915;Carlos Enrique MONTENEGRO MARIN;Prototipo WAP aplicado a un ambiente de aprendizaje virtual elearning con estándares para el desarrollo de aprendizaje móvil;Prototipo WAP aplicado a un ambiente de aprendizaje virtual elearning con estándares para el desarrollo de aprendizaje móvil;2010;Colombia;Windows  J2ME;Web;1325122
+292915;Carlos Enrique MONTENEGRO MARIN;KiwiDSM;KiwiDSM;2011;Colombia;Windos  UNIX;Escritorio java;1328448
+292915;Carlos Enrique MONTENEGRO MARIN;DAPPICDH;;2020;;;;
+292915;Carlos Enrique MONTENEGRO MARIN;Ergosent;;2020;Colombia;;;
+292915;Carlos Enrique MONTENEGRO MARIN;GARDENSPECIES DM;;2020;Colombia;;;
+795429;Gustavo Adolfo Puerto Leguizamón;OPTGRAT;;2015;Colombia;;;2735713735713
+795429;Gustavo Adolfo Puerto Leguizamón;OPTMODESUD;;2015;Colombia;;;2735713735713
+310654;José Danilo Rairán Antolines;SensorMag;SensorMag;2000;Colombia;Visual Basic 40;Windows;
+310654;José Danilo Rairán Antolines;MEF;MEF;2004;Colombia;Matlab;Windows;
+158763;Edwin Rivas Trujillo;DISEO Y DESARROLLO DE UN PROTOTIPO DE APLICACIÓN MÓVIL PARA LA ADMINISTRACIÓN DE UN SERVIDOR DE CORREO;DISEO Y DESARROLLO DE UN PROTOTIPO DE APLICACIÓN MÓVIL PARA LA ADMINISTRACIÓN DE UN SERVIDOR DE CORREO;2012;Colombia;;;1333285
+158763;Edwin Rivas Trujillo;CALCULO DEL CHECKSUM DE TCP Y EL CHECKSUM DE UDP;CALCULO DEL CHECKSUM DE TCP Y EL CHECKSUM DE UTP;2011;Colombia;;;1331192
+158763;Edwin Rivas Trujillo;ANALISIS DE VIBRACION OLTC WAVELET;ANALISIS DE VIBRACION OLTC WAVELET;2012;Colombia;;;1332229
+158763;Edwin Rivas Trujillo;ANLISIS DE TIEMPO FRECUENCIA DE LA SEAL DE VIBRACION DE UN CAMBIADOR DE TOMAS EN CARGA;ANLISIS DE TIEMPO FRECUENCIA DE LA SEAL DE VIBRACION DE UN CAMBIADOR DE TOMAS EN CARGA;2012;Colombia;;;1332230
+158763;Edwin Rivas Trujillo;Scanportud;;2020;Colombia;;;138067
+158763;Edwin Rivas Trujillo;AGREGADOR;AGREGADOR;2017;Colombia;;;1363197
+158763;Edwin Rivas Trujillo;ENCRIP ATRAC CAOTICOS;;2017;Colombia;;;
+158763;Edwin Rivas Trujillo;ADFACTS;ADFACTS;2016;Colombia;;;1356387
+158763;Edwin Rivas Trujillo;CALVAPOR;CALVAPOR;2017;Colombia;;;1363150
+158763;Edwin Rivas Trujillo;CONVERSOR;CONVERSOR;2017;Colombia;;;1361290
+158763;Edwin Rivas Trujillo;IDENTIFICACION DE OPORTUNIDADES ESPECTRALES;IDENTIFICACION DE OPORTUNIDADES ESPECTRALES;2017;Colombia;;;1365279
+158763;Edwin Rivas Trujillo;AVA SEGURIDAD;AVA SEGURIDAD;2017;Colombia;;;1363360
+158763;Edwin Rivas Trujillo;SIMUARGIS;SIMUARGIS;2016;Colombia;;;1353284
+158763;Edwin Rivas Trujillo;ENGRAMTOOL;ENGRAMTOOL;2017;Colombia;;;1359239
+158763;Edwin Rivas Trujillo;SIHUMA;SIHUMA;2016;Colombia;IDE Netbeans 671;JADE 35;1354144
+158763;Edwin Rivas Trujillo;AVALYZE;AVALYZE;2016;Colombia;;;1352257
+158763;Edwin Rivas Trujillo;OMUD;OMUD;2016;Colombia;SQL Server 20122014;SCS Short Circuit Simulator;1353285
+158763;Edwin Rivas Trujillo;ROUTE MONITOR;;2015;Colombia;;;134742
+158763;Edwin Rivas Trujillo;SISTEMA MULTIAGENTE PARA LA GENERACION DE REGLAS DE COMPORTAMIENTO EN EL USO DE UN SERVIDOR FTP;;2012;Colombia;;;1333289
+158763;Edwin Rivas Trujillo;Recordar claves WIFI UD;;2020;;;;138072
+158763;Edwin Rivas Trujillo;BLOQUEADORUD;BLOQUEADORUD;2020;Colombia;;;1379393
+158763;Edwin Rivas Trujillo;Recordar claves WIFI UD;;2020;Colombia;;;
+158763;Edwin Rivas Trujillo;BUSCADORUD;BUSCADORUD;2020;Colombia;;;1379394
+158763;Edwin Rivas Trujillo;OcultadorUD;Universidad Distrital Francisco José de Caldas;2020;;;;138071
+647322;Diego Julian Rodriguez Patarroyo;Simulacro Icfes;;2005;Colombia;windows;;
+647322;Diego Julian Rodriguez Patarroyo;Analista de estaciones;Analista de estaciones;2014;Colombia;;;
+213420;Herbert Enrique Rojas Cubides;SOFTWARE 2ASPR ADQUISICIÓN AUTOMTICA DE SEALES PRODUCIDAS POR RAYOS;SOFTWARE 2ASPR;2020;Colombia;;;2559119
+213420;Herbert Enrique Rojas Cubides;Herramienta computacional para la caracterización de señales de campo eléctrico generadas por pulsos bipolares angostos asociados a rayos intranube Herramienta HMSNPBS;Herramienta computacional para la caracterización de señales de campo eléctrico generadas por pulsos bipolares angostos asociados a rayos intranube Herramienta HMSNPBS;2022;Colombia;;;139172
+213420;Herbert Enrique Rojas Cubides;Herramienta computacional para la caracterización y evaluación de límites en perturbaciones de calidad de potencia HCEPQD Base Phyton;Herramienta computacional para la caracterización y evaluación de límites en perturbaciones de calidad de potencia HCEPQD Base Phyton;2022;Colombia;;;139269
+213420;Herbert Enrique Rojas Cubides;SOFTWARE LPAICI SP PROCESAMIENTO DE SEALES Y FILTRADO ADAPTATIVO BASADO EN LA APROXIMACIÓN LOCAL POLINOMIAL Y EL ALGORITMO ICI;SOFTWARE LPAICI SP;2018;Colombia;Matlab 2014 o superior Versión ejecutable Windows 8 o superior 64 bits;;
+213420;Herbert Enrique Rojas Cubides;SOFTWARE PARA EL MODELAMIENTO DE SISTEMAS DE GENERACIÓN DE ENERGA ELCTRICA A PARTIR DE BIOGS ISSGEB;;2018;Colombia;Matlab 2014 o superior version ejecutable para Windows 8 o superior;;
+213420;Herbert Enrique Rojas Cubides;HERRAMIENTA COMPUTACIONAL PARA LA APLICACIÓN DE LOS MODELOS FISICOS DE LA RELACIÓN VI DE SUELOS IONIZADOS  LIGHTNING SOIL PRO V10;LIGHTNING SOIL PRO V10;2016;Colombia;Matlab 2013;;
+213420;Herbert Enrique Rojas Cubides;SOFTWARE LISIPRO  PROCESAMIENTO DE SEALES Y FILTRADO ADAPTATIVO EN EL DOMINIO FRACCIONAL DE FOURIER FRFD ;SOFTWARE LISIPRO;2015;Colombia;Matlab 2011 o superior;;2535513
+213420;Herbert Enrique Rojas Cubides;SOFTWARE TRANSIENTDFRFT HERRAMIENTA PARA LA CARACTERIZACIÓN DE TRANSITORIOS ELECTROMAGNETICOS EN EL DOMINIO FRACCIONAL DE FOURIER;TRANSIENTDFRFT;2016;Colombia;Matlab 2013;;2535513
+213420;Herbert Enrique Rojas Cubides;SOFTWARE GOTTHD GENERADOR Y EMULADOR DE SEALES CON DISTORSIÓN ARMÓNICA CONTROLADA;SOFTWARE GOTTHD;2016;;Matlab 2013;;
+213420;Herbert Enrique Rojas Cubides;SOFTWARE PROCESAMIENTO DE SEALES USANDO LA TRANSFORMACIÓN LOCAL POLINOMIAL DE FOURIER LPFT SOFTWARE LPFTSP;SOFTWARE PROCESAMIENTO DE SEALES USANDO LA TRANSFORMACIÓN LOCAL POLINOMIAL DE FOURIER LPFT SOFTWARE LPFTSP;2015;Colombia;Matlab 2011 o superior;Matlab 2011 o superior;2535513
+213420;Herbert Enrique Rojas Cubides;MODELOS MATEMTICOS PARA MEDIOS DIELCTRICOS DEBYE Y JONSCHER MMATDJ;MODELOS MATEMTICOS PARA MEDIOS DIELCTRICOS DEBYE Y JONSCHER MMATDJ;2015;Colombia;Matlab 2011 o superior;Matlab 2011 o superior;2535513
+213420;Herbert Enrique Rojas Cubides;Herramienta computacional para el modelamiento y soporte de la resistividad eléctrica de suelos multicapa MSRES;MSRES;2023;Colombia;;;
+182060;Julián Andres Salamanca Bernal;SOFTWARE CIENTIFICO MEMCIRCUIT;Software Científico MemCircuit;2014;Colombia;Linux;Linux;acta 22 2013 Proyecto de Trabajo de Grado
+182060;Julián Andres Salamanca Bernal;New Start Counter Calibration Procedures;;2007;Estados Unidos;Linux;Red Had;
+182060;Julián Andres Salamanca Bernal;SOFTWARE EDUCATIVO MAXWELLS DEMON SEMD;SOFTWARE EDUCATIVO MAXWELLS DEMON SEMD;2019;Colombia;ROOT Rapid Oriented Object Thecnology, CERN;Linux;
+182060;Julián Andres Salamanca Bernal;SOFTWARE CIENTFICO CHAOS SCC;SOFTWARE CIENTFICO CHAOS SCC;2019;Colombia;ROOT rapid oriented object tecnology;Linux;1373307
+182060;Julián Andres Salamanca Bernal;SOFTWARE EDUCATIVO PROCESO2A2;SOFTWARE EDUCATIVO PROCESO2A2;2020;Colombia;ROOT Rapid OrientedObject Technology CERN;Linux;1377478
+182060;Julián Andres Salamanca Bernal;SOFTWARE CIENTFICO DE DIMBATSCDIMBAT DIMENSIONAMIENTO DE BATERAS;SOFTWARE CIENTFICO DE DIMBATSCDIMBAT DIMENSIONAMIENTO DE BATERAS;2020;Colombia;MATLAB Matrix laboratory;WINDOWSLINUX;1383262
+350044;Francisco Santamaría Piedrahita;ANLISIS DE RIESGO ANTE DESCARGAS ATMOSFRICAS ARADA;ANLISIS DE RIESGO ANTE DESCARGAS ATMOSFRICAS ARADA;2014;Colombia;Access  Visual Basic;CAD  Visual basic;NA
+350044;Francisco Santamaría Piedrahita;REGISTRO DE SOBRETENSIONES TRANSITORIAS EN REDES DE TENSIÓN MENOR A 1 KV SOFTWARE DISPOSITIVO MÓVIL;REGISTRO DE SOBRETENSIONES TRANSITORIAS EN REDES DE TENSIÓN MENOR A 1 KV SOFTWARE DISPOSITIVO MOVIL;2015;Colombia;Java Android  SQLite;Android;321 de 2015
+350044;Francisco Santamaría Piedrahita;REGISTRO DE SOBRETENSIONES TRANSITORIAS EN REDES DE TENSIÓN MENOR A 1 KV SOFTWARE ESCRITORIO;REGISTRO DE SOBRETENSIONES TRANSITORIAS EN REDES DE TENSIÓN MENOR A 1 KV SOFTWARE ESCRITORIO;2015;Colombia;Java, MySQL;Maquina virtual Java;321 de 2015
+350044;Francisco Santamaría Piedrahita;MODELOS MATEMTICOS PARA MEDIOS DIELCTRICOS DEBYE Y JONSCHER MMATDJ;MODELOS MATEMTICOS PARA MEDIOS DIELCTRICOS DEBYE Y JONSCHER MMATDJ;2015;Colombia;;;NA
+350044;Francisco Santamaría Piedrahita;PLANEACIÓN DE SISTEMAS DE GESTIÓN ENERGTICA EN ILUMINACIÓN PLANEF50001;PLANEACIÓN DE SISTEMAS DE GESTIÓN ENERGTICA EN ILUMINACIÓN PLANEF50001;2015;Colombia;JAVA runtime y MySQL;JAVA;NA
+873438;Carlos Arturo Suárez Fajardo;Software Estacion terrena producto S4U;Software Estacion Terrena S4U;2014;Colombia;Windos 98XPVista78, Linux source code disponible;Python;24062012
+873438;Carlos Arturo Suárez Fajardo;Compilador de comandos para producto S4U;Compilador de comandos para producto S4U;2014;Colombia;Windos 98XPVista78, Linux source code disponible;python;24062012
+873438;Carlos Arturo Suárez Fajardo;Software estación terrena cubesat;Estacion Terrena Cubesat;2014;Colombia;Windos 98XPVista78, Linux source code disponible;python;24062012
+873438;Carlos Arturo Suárez Fajardo;OPTGRATUD;SOFTWARE PARA EL ANLISIS Y DISEO DE FILTROS ÓPTICOS PASIVOS FBG A PARTIR DEL MTODO DE MATRICES DE TRANSFERENCIA INCLUYENDO FUNCIONES DE APODIZACIÓN;2015;Colombia;Matlab;Matlab;
+873438;Carlos Arturo Suárez Fajardo;OPTMODESUD;OPTMODESUD;2015;Colombia;Matlab;;
+873438;Carlos Arturo Suárez Fajardo;ACSINTESIS;;2003;España;Matlab;Windows;20012364 TIC20012364C0302
+1120719;Giovanny Mauricio TARAZONA BERMUDEZ;GRAPHICOMMERCEWEB;GRAPHICOMMERCEWEB;2013;Colombia;Eclipse, Java;Windows;1201347995
+222992;Julian Alfonso Tristancho Ortiz;Pérdidas por riesgo sísmico para la ciudad de Manizales SISMan;;2005;Colombia;IBMPC;Windows;
+222992;Julian Alfonso Tristancho Ortiz;Sistema automático de evaluación de daños postterremoto en Manizales SISManLISA;;2006;Colombia;IBMPC;Windows;
+222992;Julian Alfonso Tristancho Ortiz;Sistema de información sísmica para la ciudad de manizales SISMan;;2004;Colombia;IBMPC;Windows;
+222992;Julian Alfonso Tristancho Ortiz;Sistema de información sísmica para la ciudad de Ibagué SISIbagué;;2012;Colombia;IBMPC;Windows;
+222992;Julian Alfonso Tristancho Ortiz;Sistema automático de diseño;;2000;Colombia;Windows;Windows;
+222992;Julian Alfonso Tristancho Ortiz;Sistema de Información sísmica para la microzonificación de los municipios de Palmira;;2006;Colombia;IBMPC;Windows;
+222992;Julian Alfonso Tristancho Ortiz;SISTEMA DE ESTIMACIÓN DEL RIESGO GEOTCNICO E IMPACTO SOBRE POLIDUCTOS  SERGIP;SISTEMA DE ESTIMACIÓN DEL RIESGO GEOTCNICO E IMPACTO SOBRE POLIDUCTOS  SERGIP;2021;Colombia;;;
+222992;Julian Alfonso Tristancho Ortiz;Cálculo de factores de seguridad para taludes FSTALUD 3D;;2003;Colombia;IBMPC;Windows;
+222992;Julian Alfonso Tristancho Ortiz;ZpMDI;;2002;Colombia;IBMPC;Windows;
+222992;Julian Alfonso Tristancho Ortiz;Catálogo Sismológico Histórico para Colombia CSHC;;2018;Colombia;;;
+222992;Julian Alfonso Tristancho Ortiz;IIUDDIMSICERCHAS;;2011;Colombia;;;
+222992;Julian Alfonso Tristancho Ortiz;Software de tablero digital para ingeniería DIMSI  SotDIN;;2014;Colombia;IBMPC;Windows XP o superior;
+222992;Julian Alfonso Tristancho Ortiz;Sistema de Estimación de Pérdidas por Explosiones en Bogotá  SEPEB;;2016;Colombia;;;
+222992;Julian Alfonso Tristancho Ortiz;Modelamiento TermoHidroMecánico tridimensional con acoplamiento atmosférico THM3D;;2011;Colombia;IBMPC;Windows;
+222992;Julian Alfonso Tristancho Ortiz;Módulo de Consejerias Estudiantiles  Universidad Distrital;;2011;Colombia;IBMPC;Windows;
+222992;Julian Alfonso Tristancho Ortiz;Software de modelamiento para movimiento de partículas dentro de campos no inerciales de centrifuga geotécnica;;2010;Colombia;;;
+222992;Julian Alfonso Tristancho Ortiz;Sistema de dibujo automático tridimensional para oficina abierta BauerEXPRESS;;2006;Colombia;IBMPC;Windows;
+222992;Julian Alfonso Tristancho Ortiz;Procesamiento de señales para vibraciones mecánicas usando técnicas espectrales WinSASW;;2005;Colombia;IBMPC;Windows;
+222992;Julian Alfonso Tristancho Ortiz;Sistema de información sísmica para la ciudad de Quito;;2012;Ecuador;IBMPC;Windows;
+222992;Julian Alfonso Tristancho Ortiz;Módulo de procesamiento de ondas acústicas en Excel Análisis efectos humanos;;2005;Colombia;IBMPC;Windows;
+222992;Julian Alfonso Tristancho Ortiz;Sistema de estimación de pérdidas por atentados terroristas para la ciudad de BogotáEPTB;;2005;Colombia;IBMPC;Windows;
+222992;Julian Alfonso Tristancho Ortiz;Procesamiento de datos para medición de deflexiones relativas sobre pavimento rígido DefWIN;;2004;Colombia;IBMPC;Windows;
+222992;Julian Alfonso Tristancho Ortiz;Cálculo del índice de rugosidad internacional;;2004;Colombia;IBMPC;Windows;
+222992;Julian Alfonso Tristancho Ortiz;OffiCAD V10;;2011;Colombia;IBMPC;Windows;
+222992;Julian Alfonso Tristancho Ortiz;Sistema de información sísmica para la ciudad de Popayán SISPopayán;;2012;Colombia;IBMPC;Windows;
+222992;Julian Alfonso Tristancho Ortiz;Sistema de visualización y cálculo de riesgos naturales CAPRAGIS;;2009;Colombia;IBMPC;Windows;
+222992;Julian Alfonso Tristancho Ortiz;Landuse planning Trinidad  Tobago;;2013;Colombia;;;ATNOC12349TT
+222992;Julian Alfonso Tristancho Ortiz;SISTEMA DE CONTROL DE ADQUISICIÓN;;2017;;;;
+223611;Cesar Leonardo Trujillo Rodríguez;SRCDesigner;SRCDesigner;2012;Colombia;;;
+223611;Cesar Leonardo Trujillo Rodríguez;SIMMODFVUD;SIMMODFVUD;2012;Colombia;;;
+223611;Cesar Leonardo Trujillo Rodríguez;Análisis de líneas bifilar y coaxial;Análisis de líneas bifilar y coaxial;2012;Colombia;Matlab;Windows;
+426377;Adriana Marcela  Vega| Escobar;Análisis de Tiempo por frecuencia de vibración aplicando TF;;2012;Colombia;;;
+426377;Adriana Marcela  Vega| Escobar;Programa educativo manejo de sentencias básicas;;2012;Colombia;;;
+1174088;Nelson Enrique Vera Parra;PARALLELPCATRANSFORM;PARALLELPCATRANSFORM;2020;Colombia;;;1378303
+1174088;Nelson Enrique Vera Parra;DECNN;DECNN;2019;Colombia;;;219558319
+1174088;Nelson Enrique Vera Parra;PARALLELMULTIPLICATIVEFUSION;PARALLELMULTIPLICATIVEFUSION;2020;;;;219558319
+1174088;Nelson Enrique Vera Parra;PARALLELFISCHERSCORINGBINOMIAL;PARALLELFISCHERSCORINGBINOMIAL;2020;Colombia;;;219558319
+1174088;Nelson Enrique Vera Parra;SALLFUS;SALLFUS;2020;Colombia;;;219558319
+1174088;Nelson Enrique Vera Parra;IMAGESEGMENTATION ASSESSMENT COMPARISON;IMAGESEGMENTATION ASSESSMENT COMPARISON;2019;;;;219558319
+1174088;Nelson Enrique Vera Parra;PARALLELFUSIMAGERY;PARALLELFUSIMAGERY;2019;Colombia;;;219558319
+1174088;Nelson Enrique Vera Parra;BioUD API;;2008;Colombia;Multiplataforma;Web;
+1174088;Nelson Enrique Vera Parra;RESTGEN  API FRONTENDBACKEND APPLICATION GENERATOR;RESTGEN  API FRONTENDBACKEND APPLICATION GENERATOR;2018;Colombia;;;
+1174088;Nelson Enrique Vera Parra;ESPAMOV ESCHER PATHWAYS MOBILE VIEWER;ESPAMOV ESCHER PATHWAYS MOBILE VIEWER;2017;Colombia;;;
+1174088;Nelson Enrique Vera Parra;KCTK  KMERCOUNTERSTOOLKIT;;2016;Colombia;;;
+1174088;Nelson Enrique Vera Parra;LWBC  LENTIC WATER BODIES COMPARISON;;2016;Colombia;;;
+1174088;Nelson Enrique Vera Parra;MPV MOBILE PROTEIN VIEWER;;2017;Colombia;;;
+1174088;Nelson Enrique Vera Parra;NGSPRE;;2014;Colombia;;;
+1174088;Nelson Enrique Vera Parra;DIFEXP;;2014;Colombia;;;
+1174088;Nelson Enrique Vera Parra;FUSATIMA;;2016;Colombia;;;
+1174088;Nelson Enrique Vera Parra;ABEST;;2014;Colombia;;;
+1174088;Nelson Enrique Vera Parra;P3D;P3D;2015;Colombia;Android;Android;
+1174088;Nelson Enrique Vera Parra;A2;A2;2012;Colombia;Linux;Web;Libro 13
+1174088;Nelson Enrique Vera Parra;BSG;BSG  Blast Statistics Generator;2012;Colombia;Linux;Web;Libro 13
+1174088;Nelson Enrique Vera Parra;Calculadora IPv6;Calculadora IPv6;2012;Colombia;Windows;Escritorio;
+1174088;Nelson Enrique Vera Parra;Software demostrativo de un sistema PCM completo;;2012;Colombia;;;
+1174088;Nelson Enrique Vera Parra;DOMARCH VIEWER;DOMARCH;2014;Colombia;;;LIBRO 13 TOMO 41 PARTIDA 18
+1174088;Nelson Enrique Vera Parra;MAFA  MASSIVE AUTOMATIC FUNCTIONAL ANNOTATOR;MAFA;2014;Colombia;;;LIBRO 13 TOMO 40 PARTIDA 396
+1174088;Nelson Enrique Vera Parra;DAT  DATA ANALYTICS TWITTER;DAT  DATA ANALYTICS TWITTER;2019;Colombia;;;219558319
+1174088;Nelson Enrique Vera Parra;SIMULADOR DEL COMPORTAMIENTO DE UNA CADENA DE BLOQUES;SIMULADOR DEL COMPORTAMIENTO DE UNA CADENA DE BLOQUES;2019;Colombia;;;
+1174088;Nelson Enrique Vera Parra;SISTEMA RECOMENDADOR DE RECORRIDOS EN MUSEOS DE ARTE VIRTUALIZADOS;SISTEMA RECOMENDADOR DE RECORRIDOS EN MUSEOS DE ARTE VIRTUALIZADOS;2018;Colombia;;;
+1174088;Nelson Enrique Vera Parra;PARALLELBROVEYTRANSFORM;PARALLELBROVEYTRANSFORM;2019;Colombia;;;219558319
+1520054;Erika Sofia Upegui Cardona;SALLFUS;;2020;Colombia;ARQUITECTURAS COMPUTACIONALES HOMOGNEAS CPU Y HETEROGNEAS CPUGPU;ARQUITECTURAS COMPUTACIONALES HOMOGNEAS CPU Y HETEROGNEAS CPUGPU;219558319
