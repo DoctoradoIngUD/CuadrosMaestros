@@ -1,11 +1,11 @@
 ﻿# CuadrosMaestros-DoctoradoIngeniera
 
-##Dir Cuadros 
+## Dir Cuadros 
 → web scraping producción doctorado 
-##Dir DASH
+## Dir DASH
 → dashboard parte gráfica hecha en python
 con datos de csv
-##Dir Gruoplac 
+## Dir Gruoplac 
 → web scraping gruplac 
-##Dir Resultados
+## Dir Resultados
 → csv resultado de los web sacraping
