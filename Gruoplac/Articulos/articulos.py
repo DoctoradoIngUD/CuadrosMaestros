@@ -34,9 +34,9 @@ def artiextract():
         # Escribir la etiqueta de cierre de la página
         file.write("</body></html>")'''
     '''Obtener nombre a quien pertenece el CvLAC'''
-    nombre = None
+    Grupo = None
     a_tag = page_soup.find("span", {"class": "celdaEncabezado"})
-    nombre =  a_tag.text.strip()  
+    Grupo =  a_tag.text.strip()  
     
 
     # if a_tag:
@@ -56,7 +56,7 @@ def artiextract():
         try:
             if buscaeventos.text == "Artículos publicados":
                 all = a
-                #print(all)
+                #print(buscaeventos)
                 break
             
         except AttributeError:
@@ -64,64 +64,48 @@ def artiextract():
 
     if all != 0:
         containerb = containers[all]
+        #print(containerb)
         container = containerb.findAll("tr")
-        tipoart = containerb.findAll("td")
+        # tipoart = containerb.findAll("td")
 
         for x in range(0, len(container)):
             cont = container[x]
-            tipoar = tipoart[x]
-            tipo = tipoar.text
+            #tipoar = tipoart[x]
+            #tipo = tipoar.text
             info_articulo = cont.text
             # Nombre Articulo
             # index1 = info_articulo.find('"')
             # index2 = info_articulo.rfind('"') + 1
             # NombreProducto = info_articulo[index1:index2]
        
-            index1 = info_articulo.find('revista especializada:')
-            index2 = info_articulo.find(".", index1)
+            index1 = info_articulo.find('Publicado en revista especializada:') + 35
+            index2 = info_articulo.find("\n", index1) - 1
             Titulo = info_articulo[index1:index2]
-            #autores_aux = info_articulo[index1:index2]
-            #autores = info_articulo[index1:index2-1]
-            '''Asignar variables para imprimir en el archivo CSV'''
-            #autores = nombre
-            #autores_aux = list(map(str.rstrip, autores_aux))
-            #print(autores_aux)
-            #autores = "".join(map(str, autores_aux))
-            #print(autores)
-            #Lugar
-            # index1 = info_articulo.find('En: ') +4
-            # index2 = info_articulo.find('ISSN:')
-            # lugar_aux = info_articulo[index1:index2]
-            # lugar= lugar_aux[:lugar_aux.find("\n")]
-            # #print(lugar)
-
-            # #DOI
-            # # index1 = info_articulo.find("\xa0DOI:\xa0") + 6
-            # # index2 = info_articulo.find("\n",index1,len(info_articulo))
-            # # doi = info_articulo[index1:index2]
-            # #ISSN
-            # index1 = info_articulo.find("ISSN:") + 6
-            # index2 = info_articulo.find("e", index1) - 1
-            # ISSN = info_articulo[index1:index2]
-            # #Nombre Revista
-            # indexAux = info_articulo.find('En: ') + 4
-            # index1 = info_articulo.find('\n', indexAux) + 1
-            # index2 = info_articulo.find("ISSN:")
-            # Revista = info_articulo[index1:index2]
-            # #Año
-            # index1 = info_articulo.find("fasc.")
-            # index2 = info_articulo.find("DOI:")
-            # AnoEvento = info_articulo[index1:index2]
-            # AnoEvento = AnoEvento.strip()
-            # AnoEvento = AnoEvento[-5:-1]
-            #print(AnoEvento)
+            # 
+            index3 = info_articulo.find(",") 
+            Pais = info_articulo[index2+18:index3]
+            #ISSN
+            index1 = info_articulo.find('ISSN: ') + 6
+            ISSN = info_articulo[index1:index1 + 9]
+            #AÑO
+            index2 = info_articulo.find(',', index1) + 1
+            ANIO = info_articulo[index2 : index2 + 5]
+            #AUTORES
+            index1 = info_articulo.find("Autores:") + 8
+            index2 = info_articulo.find("\n", index1) - 1
+            AUTORES = info_articulo[index1:index2]
+ 
 
 
 
 
             Articulos.init.articulos.append(RH+";"\
-                                    + nombre + ";"\
+                                    + Grupo + ";"\
                                     + Titulo + ";" \
+                                    + Pais + ";"\
+                                    + ISSN + ";"\
+                                    + ANIO + ";"\
+                                    + AUTORES + ";"
                                     # + re.sub(r'[^A-Za-z0-9éèáàéñèíìúùó ò,]',r'',re.sub(' +',' ',lugar.replace('"',"").replace("'","").strip().replace(";" , "|").replace("\r\n","").replace("\n","").replace("\r",""))) + ";"\
                                     # + re.sub(r'[^A-Za-z0-9éèáàéñèíìúùó ò,]',r'',re.sub(' +',' ',Revista.replace('"',"").replace("'","").strip().replace(";" , "|").replace("\r\n","").replace("\n","").replace("\r",""))) + ";"\
                                     # + re.sub(r'[^A-Za-z0-9éèáàéñèíìúùó ò,]',r'',re.sub(' +',' ',editorial.replace('"',"").replace("'","").strip().replace(";" , "|").replace("\r\n","").replace("\n","").replace("\r",""))) + ";"\

@@ -14,6 +14,11 @@
 def inicio():
     #Tablas CSV
     global articulos
+    global libros
+    global capitulos
+    global software
+    global diseno
+    #global prototipos
     global rel_persona_producto_colciencias
     global colciencias_apropiacion
     global rel_persona_colciencias
@@ -39,11 +44,43 @@ def inicio():
     articulos = ["COD_RH; \
                 GRUPO;\
                 TITULO;\
+                PAIS;\
+                ISSN;\
                 AÑO;\
-                LUGAR;\
-                REVISTA;\
-                ISSN;\n"]
+                AUTORES;\n"]
     
+    libros = ["COD_RH; \
+                GRUPO;\
+                TITULO;\
+                PAIS;\
+                ISBN;\
+                AÑO;\
+                AUTORES;\n"]
+    
+    capitulos = ["COD_RH; \
+                GRUPO;\
+                TITULO CAPITULO;\
+                PAIS;\
+                ISBN;\
+                AÑO;\
+                AUTORES;\n"]
+    
+    software = ["COD_RH; \
+                GRUPO;\
+                NOMBRE SOFTWARE;\
+                PAIS;\
+                AÑO;\
+                INSTITUCIÓN FINANCIADORA;\
+                AUTORES;\n"] 
+
+    diseno = ["COD_RH; \
+                GRUPO;\
+                NOMBRE DISEÑO;\
+                PAIS;\
+                AÑO;\
+                INSTITUCIÓN FINANCIADORA;\
+                AUTORES;\n"]    
+   
 
 
     rel_persona_producto_colciencias = ["COD_RH; \

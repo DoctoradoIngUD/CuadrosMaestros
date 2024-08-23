@@ -13,7 +13,7 @@ def get_maximum_rows(*, sheet_object):
 start_time = time.time()
 
 print ("Lectura de registros")
-wb = openpyxl.load_workbook('./Input/Base_GruposP.xlsx')
+wb = openpyxl.load_workbook('./Input/Base_Grupos.xlsx')
 sheet = wb['Sheet1']
 total = get_maximum_rows(sheet_object=sheet)
 COD_PRODUCTO = 1

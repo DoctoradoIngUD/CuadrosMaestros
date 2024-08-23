@@ -253,4 +253,4 @@ def update_graph(value):
 #     return fig2
 
 if __name__ == ('__main__'):
-    app.run_server(host='10.100.66.8', port=8888, debug=True)
+    app.run_server(host='10.100.66.4', port=8888, debug=True)
