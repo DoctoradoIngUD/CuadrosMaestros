@@ -37,17 +37,7 @@ def artiextract():
     Grupo = None
     a_tag = page_soup.find("span", {"class": "celdaEncabezado"})
     Grupo =  a_tag.text.strip()  
- 
-    
 
-    # if a_tag:
-        # td_tag = a_tag.find_parent("body")
-        # if td_tag:
-        #     nombre_td = td_tag.find("span")
-        #     if nombre_td:
-        #         siguiente_td = nombre_td.find_next_sibling("span")
-        #         if siguiente_td:
-        #             nombre = siguiente_td
 
 
 
@@ -57,7 +47,7 @@ def artiextract():
         try:
             if buscaeventos.text == " Libros publicados ":
                 all = a
-              
+
                 break
             
         except AttributeError:
@@ -105,10 +95,6 @@ def artiextract():
                                     + ISBN + ";"\
                                     + ANIO + ";"\
                                     + AUTORES + ";"
-                                    # + re.sub(r'[^A-Za-z0-9éèáàéñèíìúùó ò,]',r'',re.sub(' +',' ',lugar.replace('"',"").replace("'","").strip().replace(";" , "|").replace("\r\n","").replace("\n","").replace("\r",""))) + ";"\
-                                    # + re.sub(r'[^A-Za-z0-9éèáàéñèíìúùó ò,]',r'',re.sub(' +',' ',Revista.replace('"',"").replace("'","").strip().replace(";" , "|").replace("\r\n","").replace("\n","").replace("\r",""))) + ";"\
-                                    # + re.sub(r'[^A-Za-z0-9éèáàéñèíìúùó ò,]',r'',re.sub(' +',' ',editorial.replace('"',"").replace("'","").strip().replace(";" , "|").replace("\r\n","").replace("\n","").replace("\r",""))) + ";"\
-                                    # + re.sub(r'[^A-Za-z0-9éèáàéñèíìúùó ò,-]', '', ISSN) + ";" \
                                     + "\n")
             
 

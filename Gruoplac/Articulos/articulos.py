@@ -39,24 +39,16 @@ def artiextract():
     Grupo =  a_tag.text.strip()  
     
 
-    # if a_tag:
-        # td_tag = a_tag.find_parent("body")
-        # if td_tag:
-        #     nombre_td = td_tag.find("span")
-        #     if nombre_td:
-        #         siguiente_td = nombre_td.find_next_sibling("span")
-        #         if siguiente_td:
-        #             nombre = siguiente_td
 
 
 
     for a in range(0,len(containers)):
         buscaeventos = containers[a].td
-        #print(buscaeventos)
+
         try:
             if buscaeventos.text == "Artículos publicados":
                 all = a
-                #print(buscaeventos)
+
                 break
             
         except AttributeError:
@@ -64,20 +56,15 @@ def artiextract():
 
     if all != 0:
         containerb = containers[all]
-        #print(containerb)
+
         container = containerb.findAll("tr")
-        # tipoart = containerb.findAll("td")
+
 
         for x in range(0, len(container)):
             cont = container[x]
-            #tipoar = tipoart[x]
-            #tipo = tipoar.text
+
             info_articulo = cont.text
-            # Nombre Articulo
-            # index1 = info_articulo.find('"')
-            # index2 = info_articulo.rfind('"') + 1
-            # NombreProducto = info_articulo[index1:index2]
-       
+
             index1 = info_articulo.find('Publicado en revista especializada:') + 35
             index2 = info_articulo.find("\n", index1) - 1
             Titulo = info_articulo[index1:index2]
@@ -94,7 +81,7 @@ def artiextract():
             index1 = info_articulo.find("Autores:") + 8
             index2 = info_articulo.find("\n", index1) - 1
             AUTORES = info_articulo[index1:index2]
- 
+
 
 
 
@@ -106,10 +93,6 @@ def artiextract():
                                     + ISSN + ";"\
                                     + ANIO + ";"\
                                     + AUTORES + ";"
-                                    # + re.sub(r'[^A-Za-z0-9éèáàéñèíìúùó ò,]',r'',re.sub(' +',' ',lugar.replace('"',"").replace("'","").strip().replace(";" , "|").replace("\r\n","").replace("\n","").replace("\r",""))) + ";"\
-                                    # + re.sub(r'[^A-Za-z0-9éèáàéñèíìúùó ò,]',r'',re.sub(' +',' ',Revista.replace('"',"").replace("'","").strip().replace(";" , "|").replace("\r\n","").replace("\n","").replace("\r",""))) + ";"\
-                                    # + re.sub(r'[^A-Za-z0-9éèáàéñèíìúùó ò,]',r'',re.sub(' +',' ',editorial.replace('"',"").replace("'","").strip().replace(";" , "|").replace("\r\n","").replace("\n","").replace("\r",""))) + ";"\
-                                    # + re.sub(r'[^A-Za-z0-9éèáàéñèíìúùó ò,-]', '', ISSN) + ";" \
                                     + "\n")
             
 

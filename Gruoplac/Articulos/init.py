@@ -1,15 +1,3 @@
-#
-# #############################################################################
-#         Copyright (c) 2018 by Manuel Embus. All Rights Reserved.
-#
-#             This work is licensed under a Creative Commons
-#       Attribution - NonCommercial - ShareAlike 4.0
-#       International License.
-#
-#       For more information write me to jai@mfneirae.com
-#       Or visit my webpage at https://mfneirae.com/
-# #############################################################################
-#
 
 def inicio():
     #Tablas CSV
@@ -80,7 +68,6 @@ def inicio():
                 AÑO;\
                 INSTITUCIÓN FINANCIADORA;\
                 AUTORES;\n"]    
-   
 
 
     rel_persona_producto_colciencias = ["COD_RH; \
@@ -710,12 +697,7 @@ Jurado Especializaciones; \
 Comités; \
 ;\
 ;\n"]
-# N; \
-# el final; \
-# el final; \
-# el final; \
-# ;\
-# ;\n"]
+
 
     v_colciencias_tipo_evento = [ "COD_TIPO_EVENTO; \
 TIPO_EVENTO_COL; \
@@ -1975,26 +1957,6 @@ REPLACE INTO `uapa_db`.`v_colciencias_tipo_evento` ( \
 6,\
 'Simposio');\n"]
 
-#     inrel_persona_colciencias = [ "SET unique_checks = 0;\n\
-# SET foreign_key_checks = 0;\n"]
-#
-#     incolciencias_apropiacion = [ "SET unique_checks = 0;\n\
-# SET foreign_key_checks = 0;\n"]
-#
-#     inrel_personas_producto_colciencias = [ "SET unique_checks = 0;\n\
-# SET foreign_key_checks = 0;\n"]
-#
-#     incolciencias_prod_tecnica = [ "SET unique_checks = 0;\n\
-# SET foreign_key_checks = 0;\n"]
-#
-#     incolciencias_prod_bibliografica = [ "SET unique_checks = 0;\n\
-# SET foreign_key_checks = 0;\n"]
-#
-#     incolciencias_comites = [ "SET unique_checks = 0;\n\
-# SET foreign_key_checks = 0;\n"]
-#
-#     incolciencias_reconocimientos = [ "SET unique_checks = 0;\n\
-# SET foreign_key_checks = 0;\n"]
 
 
     inrel_persona_colciencias = []
